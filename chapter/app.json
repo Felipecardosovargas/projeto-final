@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Chapter",
+    "slug": "chapter",
+    "scheme": "chapter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
